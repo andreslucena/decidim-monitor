@@ -166,6 +166,11 @@ defmodule DecidimMonitor.Api.Installation do
       name: "Malgrat Decideix",
       url: "https://decideix.ajmalgrat.cat/",
       codegram: false
+    },
+    "somdecau" => %{
+      name: "Escoltisme i Guiatge Català",
+      url: "https://decidim.fceg.cat/",
+      codegram: false
     }
   }
 
